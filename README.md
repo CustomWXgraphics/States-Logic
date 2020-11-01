@@ -19,9 +19,9 @@ Arkansas
 * **Selecting All Counties**
 <img src="https://github.com/CustomWXgraphics/States-Logic/blob/main/Images/all%20counties.png" width=auto, height="auto">
 Georgia
-* **Default**
+
 <img src="https://github.com/CustomWXgraphics/States-Logic/blob/main/Images/GA%20Default.png" width=auto, height="auto">
-* **Far out zoom**
+
 <img src="https://github.com/CustomWXgraphics/States-Logic/blob/main/Images/GA%20far.png" width=auto, height="auto">
-* **4:5 Aspect Ratio**
+
 <img src="https://github.com/CustomWXgraphics/States-Logic/blob/main/Images/54.png" width=auto, height="auto">
