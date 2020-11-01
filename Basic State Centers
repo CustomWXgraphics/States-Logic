@@ -121,8 +121,6 @@ x = sum(np.abs(ax.get_xlim()))/100000
 
 exa = (a-y)/2
 exb = (b-x)/2
-print(exa)
-print(exb)
 
 south = south
 north = north
