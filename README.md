@@ -15,13 +15,13 @@ Have the ability to plot nice clean state maps centered with selected states wit
 
 ## **Examples**:
 
-Arkansas
-* **Selecting All Counties**
+* **Arkansas**
+**Selecting All Counties**
 <img src="https://github.com/CustomWXgraphics/States-Logic/blob/main/Images/all%20counties.png" width=auto, height="auto">
-Georgia
-
+* **Georgia**
+**Default**
 <img src="https://github.com/CustomWXgraphics/States-Logic/blob/main/Images/GA%20Default.png" width=auto, height="auto">
-
+**Far Zoom**
 <img src="https://github.com/CustomWXgraphics/States-Logic/blob/main/Images/GA%20far.png" width=auto, height="auto">
-
+**5:4 Ratio**
 <img src="https://github.com/CustomWXgraphics/States-Logic/blob/main/Images/54.png" width=auto, height="auto">
