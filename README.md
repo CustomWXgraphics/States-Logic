@@ -25,6 +25,7 @@ Have the ability to plot nice clean state maps centered with selected states wit
 **Default**
 
 <img src="https://github.com/CustomWXgraphics/States-Logic/blob/main/Images/GA%20Default.png" width=auto, height="auto">
+
 **Far Zoom**
 
 <img src="https://github.com/CustomWXgraphics/States-Logic/blob/main/Images/GA%20far.png" width=auto, height="auto">
